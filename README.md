@@ -12,6 +12,20 @@ Mahindra's first dataset is utilized to estimate customer lifetime value, follow
 - Expected Business Outcome
 This may provide information on how Mahindra First Choice should be prepared to handle distinct seasonal instances.
 
+### Geolocation Based Analysis:
+❑ Extract insights regarding the ownership pattern of cars based on location features of the customers.
+❑ Find out how the different type of services and service time vary with location.
+❑ Analyse the revenue generated at different locations throughout the country
+Market Segmentation:
+❑ Divide the customer base into different segments based on the activeness, number of visits to garage, service type and 
+revenue generated . 
+❑ This will help to better understand the customer behavioural patterns and have targeted marketing campaigns and rewards 
+based on the segments
+### Customer Lifetime Value Prediction:
+❑ Predict the value given by the customer over his lifetime based on the average spend over a year and number of visits.
+❑ Analysing CLV would help Mahindra First Choice focus on the customers who are going to generate good value to the 
+company
+
 ## Activities Carried Out
 The following activities were carried out:
 
